@@ -10,6 +10,7 @@ import java.util.ArrayList;
 
 import krc.util.MySQLUtils;
 
+/**/
 class Author {
 	int id;
 	String personid; 
